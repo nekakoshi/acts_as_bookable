@@ -1,5 +1,6 @@
 # ActsAsBookable
 
+
 [![Gem Version](https://badge.fury.io/rb/acts_as_bookable.svg)](http://badge.fury.io/rb/acts_as_bookable)
 [![Build Status](https://secure.travis-ci.org/tandusrl/acts_as_bookable.png)](http://travis-ci.org/tandusrl/acts_as_bookable)
 [![Code Climate](https://codeclimate.com/github/tandusrl/acts_as_bookable.png)](https://codeclimate.com/github/tandusrl/acts_as_bookable)
